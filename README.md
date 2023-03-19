@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm Mohit Pratap singh💻
+
+👨‍🎓 Pursuing B.Tech in Computer Science and Engineering from UCER GREATER NOIDA
+
+About me 👀
+
+🎯 Web Developer
+
+❤️ Love to code
 <!--
 **mohitpratap-singh/mohitpratap-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
